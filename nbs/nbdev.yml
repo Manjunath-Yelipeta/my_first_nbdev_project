@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_first_nbdev_project"
+  site-url: "https://Manjunath-Yelipeta.github.io/my_first_nbdev_project"
+  description: "practicing nbdev project creation"
+  repo-branch: main
+  repo-url: "https://github.com/Manjunath-Yelipeta/my_first_nbdev_project"
